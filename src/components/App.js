@@ -10,7 +10,7 @@ class App extends React.Component {
 		return(
 			<div className="box">
 				<div className="messages">
-					<Message />
+					<Message pseudo="kevin"/>
 				</div>
 				<Formulaire />
 			</div>
